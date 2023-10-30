@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\obj\Debug\TextOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\obj\Debug\TextOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\bin\Debug\TextOperation.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\bin\Debug\TextOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\bin\Debug\TextOperation.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\obj\Debug\TextOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\TextOperation\obj\Debug\TextOperation.pdb
